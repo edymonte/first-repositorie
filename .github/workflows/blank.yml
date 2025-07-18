@@ -15,7 +15,7 @@ jobs:
           echo "You create his first workflow"
           echo "Congratulations !!!!!!!!!!"
       - name: "New mensage"
-        run: mkdir edilson_dreans.txt
+        run: mkdir .\edilson_dreans.txt
     
      
      
