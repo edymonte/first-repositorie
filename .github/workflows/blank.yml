@@ -16,7 +16,7 @@ jobs:
           echo "Congratulations !!!!!!!!!!"
       - name: "Script Python"
         run: |
-          variable = "Hello World"
+          variavel = "Hello World"
           print(variavel)
         shell: python
 
